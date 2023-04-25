@@ -38,7 +38,7 @@
                         <path>
                             <groupId>dev.jorel.CommandAPI</groupId>
                             <artifactId>commandapi-annotations</artifactId>
-                            <version>8.7.6</version>
+                            <version>9.0.0</version>
                         </path>
                     </annotationProcessorPaths>
                     <source>15</source>
@@ -103,7 +103,7 @@
         <dependency>
             <groupId>dev.jorel.CommandAPI</groupId>
             <artifactId>commandapi-annotations</artifactId>
-            <version>8.7.6</version>
+            <version>9.0.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
