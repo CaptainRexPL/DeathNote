@@ -432,7 +432,7 @@ public class PluginAfflictions {
                         new BukkitRunnable() {
                             @Override
                             public void run() {
-                                var bee = (Bee) world.spawnEntity(player.getLocation().add(0, 2, 0), EntityType.BEE);
+                                Bee bee = (Bee) world.spawnEntity(player.getLocation().add(0, 2, 0), EntityType.BEE);
                                 bee.setInvulnerable(true);
                                 new BukkitRunnable() {
                                     @Override
