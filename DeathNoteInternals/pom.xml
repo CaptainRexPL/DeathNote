@@ -42,7 +42,7 @@
         <dependency>
             <groupId>dev.jorel</groupId>
             <artifactId>commandapi-annotations</artifactId>
-            <version>9.3.0</version>
+            <version>9.5.1</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -89,7 +89,7 @@
                         <path>
                             <groupId>dev.jorel</groupId>
                             <artifactId>commandapi-annotations</artifactId>
-                            <version>9.3.0</version>
+                            <version>9.5.1</version>
                         </path>
                     </annotationProcessorPaths>
                 </configuration>
